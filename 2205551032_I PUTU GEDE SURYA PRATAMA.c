@@ -6,7 +6,7 @@
 #define jatuh_tempo 20
 #define dendaa 10
 #define dendaa1 20
-//cretae by : Komang Bayu Lobi Hartawan_2205551025
+//cretae by : I PUTU GEDE SURYA PRATAMA_2205551032
 //Tugas Pembayaran Rekening Air 
 void pilihan();
 void ulang(){
